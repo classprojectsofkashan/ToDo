@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/classroom/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+            <state relative-caret-position="257">
+              <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
               <folding>
                 <element signature="e#494#495#0" expanded="true" />
                 <element signature="e#524#525#0" expanded="true" />
@@ -23,16 +23,11 @@
                 <element signature="e#1522#1523#0" expanded="true" />
                 <element signature="e#1894#1895#0" expanded="true" />
                 <element signature="e#1941#1942#0" expanded="true" />
+                <element signature="e#2135#2136#0" expanded="true" />
+                <element signature="e#2174#2175#0" expanded="true" />
+                <element signature="e#2397#2398#0" expanded="true" />
+                <element signature="e#2458#2459#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -54,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/classroom/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/classroom/Main.java" />
       </list>
     </option>
   </component>
@@ -71,7 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,13 +78,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555182651326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555182722097" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -132,18 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1555178911705</updated>
       <workItem from="1555178916122" duration="3267000" />
-      <workItem from="1555182301410" duration="348000" />
+      <workItem from="1555182301410" duration="959000" />
+      <workItem from="1555698441705" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3615000" />
+    <option name="totallyTimeSpent" value="5184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,7 +148,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5760369" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44854072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -160,7 +156,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6205837" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.51766515" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -223,10 +219,17 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/classroom/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+        <state relative-caret-position="257">
+          <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
           <folding>
             <element signature="e#494#495#0" expanded="true" />
             <element signature="e#524#525#0" expanded="true" />
@@ -234,14 +237,11 @@
             <element signature="e#1522#1523#0" expanded="true" />
             <element signature="e#1894#1895#0" expanded="true" />
             <element signature="e#1941#1942#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2174#2175#0" expanded="true" />
+            <element signature="e#2397#2398#0" expanded="true" />
+            <element signature="e#2458#2459#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
         </state>
       </provider>
     </entry>

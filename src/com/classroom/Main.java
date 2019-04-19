@@ -10,7 +10,9 @@ public class Main {
         toDoList.add(new ToDo("TEST2"));
         toDoList.add(new ToDo("TEST3"));
         toDoList.add(new ToDo("TEST4"));
-        System.out.println(toDoList.get(3).name);
+        ToDo l;
+        while(toDoList.hasNext())
+            System.out.println(toDoList.next());
     }
 }
 
@@ -96,22 +98,22 @@ class ToDoList {
         return toDoListArray.get(index);
     }
 
-    ToDo get() throws Exception {
+    ToDo get(){
         if (hasNext())
             return toDoListArray.get(pivot);
-        throw new Exception("No Other element in array");
+        return null;
     }
 
     void add(ToDo toDo) {
         toDoListArray.add(toDo);
     }
 
-    ToDo next() throws Exception {
+    ToDo next() {
         if (hasNext()) {
             pivot++;
             return toDoListArray.get(pivot);
         }
-        throw new Exception("No Other ToDos in list");
+        return null;
     }
 
     boolean hasNext() {
